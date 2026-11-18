@@ -5,7 +5,7 @@
 > 装一个 APK 在手机上，游戏自己打完一整首。只在开发者选项里做一次「无线调试配对」
 > （6 位配对码），之后每次打开 App 点一下就行。
 
-[下载最新 APK](../../releases/latest) · [技术笔记](docs/00-技术总览.md) · [使用说明](docs/07-使用说明-Android.md)
+[下载最新 APK](https://github.com/YKLovePython/fw-wsd/releases/latest) · [技术笔记](docs/00-技术总览.md) · [使用说明](docs/07-使用说明-Android.md)
 
 ---
 
@@ -31,7 +31,7 @@
 
 | 文件 | 说明 |
 | --- | --- |
-| [`fw-wsd-android-v1.5.1.apk`](../../releases/latest) | Android 11+，75 MB，同名覆盖安装即可 |
+| [`fw-wsd-android-v1.5.1.apk`](https://github.com/YKLovePython/fw-wsd/releases/latest) | Android 11+，75 MB，同名覆盖安装即可 |
 | SHA256 | `3D5B89B76CE673A4F18BAC054E62C77B63D92305FB56932AEF72C052B2CADDCC` |
 | 签名 | `b0b526a8…526ced5263`（与 1.4.2 起所有版本相同，可直接覆盖） |
 | versionCode | 18 / versionName 1.5.1 |
